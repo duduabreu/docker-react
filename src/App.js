@@ -9,6 +9,15 @@ function App() {
         <p>
          Oi amor da minha vida, lindurinha do meu coração
         </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+          style="display: none;"
+        >
+          Learn React
+        </a>
       </header>
     </div>
   );
